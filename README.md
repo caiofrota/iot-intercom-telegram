@@ -8,7 +8,9 @@ The device will receive the signal from the speaker through the analog port; the
 
 You may need to divide the voltage, as the analog port supports no more than 3.3v; please verify the speaker's voltage before connecting it to the device. [See how to do it](https://ohmslawcalculator.com/voltage-divider-calculator).
 
-
+```diff
+- Again, PLEASE verify the speaker's voltage before connecting it to the device.
+```
 
 ## Telegram API
 
