@@ -12,6 +12,10 @@ You may need to divide the voltage, as the analog port supports no more than 3.3
 - Again, PLEASE verify the speaker's voltage before connecting it to the device.
 ```
 
+## Schema
+
+![Alt text](https://github.com/caiofrota/iot-intercom-telegram/blob/main/schema.png)
+
 ## Telegram API
 
 1. [Create your bot](https://core.telegram.org/bots/tutorial#obtain-your-bot-token) and save the token
